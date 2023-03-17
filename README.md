@@ -3,8 +3,9 @@
 </p>
 <br />
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=Transparent&height=150&section=header&text=Hi%20I%20am%20Anupama%20Student,Researcher%20and%20Programmer&fontColor=060207&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical" />
 </p>
+(https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 
 <!--
 **deucalion77/deucalion77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
