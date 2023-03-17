@@ -3,7 +3,7 @@
 </p>
 <br />
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=Transparent&height=150&section=header&text=Hi%20I%20am%20Anupama%20Student,Researcher%20and%20Programmer&fontColor=060207&fontSize=10" />
+  <img src="https://capsule-render.vercel.app/api?type=Transparent&height=150&section=header&text=Hi%20I%20am%20Anupama%20Student,Researcher%20and%20Programmer&fontColor=060207&fontSize=40" />
 </p>
 
 <!--
