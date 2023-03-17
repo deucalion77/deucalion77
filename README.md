@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi%20Welcome&fontSize=90&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi%20Welcome&fontSize=90&animation=twinkling" />
 </p>
 <!--
 **deucalion77/deucalion77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
