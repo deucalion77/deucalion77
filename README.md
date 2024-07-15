@@ -6,7 +6,7 @@
    <img src="https://capsule-render.vercel.app/api?type=Transparent&text=Hi%20I%20am%20a%20Student,researcher%20and%20a%20Programmer%20who%20thinks%20freely&fontColor=fcf7fd&fontSize=20" />
 </p>
 
-<!--
+
 **deucalion77/deucalion77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
